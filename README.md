@@ -1,4 +1,4 @@
-# UPI India Flutter Plugin
+# UPI India 
 
 UPI India is a versatile Flutter plugin designed to seamlessly facilitate UPI transactions across various Android apps, making it easier than ever to handle digital payments in your Flutter application.
 
